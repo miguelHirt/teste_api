@@ -47,7 +47,7 @@
 
         $urapi = 'https://api.themoviedb.org/3';
         $tipo = '';
-        $key = '1f54bd990f1cdfb230adb312546d765d';
+        $key = ''; //Removido KEY para tornar o artigo PUBLICO
         $lingua = 'pt-BR';
 
         if (isset($_GET["filtrar1"])) {
